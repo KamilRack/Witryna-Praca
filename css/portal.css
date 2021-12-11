@@ -18,4 +18,21 @@
     font-style: italic;
     padding: 20px;
 }
+#teksty{
+    background-color:#9fa7d6;
+}
 
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  
