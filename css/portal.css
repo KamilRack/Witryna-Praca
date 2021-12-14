@@ -50,3 +50,139 @@ h1{
 .tlo{
     background-color:#9fa7d6;
 }
+
+.info{
+  padding: 50px 0px;
+  background-color:  #3D488A;
+  color: #fff;
+}
+
+.info.title{
+  font-weight: 700;
+  font-size: 4.5rem;
+}
+
+.info.description{
+  
+  line-height:2.5rem;
+}
+.info.motto{
+  font-weight: bold;
+  font-style: italic;
+  padding: 20px;
+}
+#teksty{
+  background-color:#9fa7d6;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+#navbar-toggler
+{
+float: right;
+align-items: right;
+text-align: right;
+}
+
+
+
+svg
+{
+  display: block;
+  margin: auto;
+}
+
+
+.container1
+{
+  background-color:#9fa7d6;
+}
+.tlo{
+  background-color:#9fa7d6;
+}
+.slajdy
+{
+text-align: right;
+}
+h4{
+text-align: right;
+}
+
+
+.carousel-inner
+{
+width: auto;
+height: 20em;
+background-color: #e6e9fa;
+}
+
+.img-autorzy
+{
+border-radius: 90%;
+height: 65%;
+width: auto;
+margin: 5%;
+padding-top: 5%;
+margin-right: 90%;
+}
+.tekst-autorzy
+{
+font-size: 80%;
+margin-left: 40%;
+margin-right: 15%;
+position: relative;
+display: block;
+
+
+}
+.autor-naglowek
+{
+margin-top: 10%;
+margin-left: 20%;
+padding: 0%;
+position: relative;
+
+}
+
+
+
+
+
+.map-container{
+overflow:hidden;
+
+position:relative;
+height:80%;
+
+}
+.map-container iframe{
+  
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
+
+
+#kontakt1
+{
+  background-color: #5e70d6;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#tekst2
+{
+  text-align: left;
+  
+  color: #fff;
+}
+#przycisk
+{
+  padding-top: 3%;
+  padding-bottom: 8%;
+
+  
+}
