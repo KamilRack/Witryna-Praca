@@ -35,12 +35,7 @@ align-items: right;
 text-align: right;
 }
 
-#navbar-toggler
-{
-  float: right;
-  align-items: right;
-  text-align: right;
-}
+
  
  
   
@@ -49,16 +44,8 @@ text-align: right;
     display: block;
     margin: auto;
   }
-=======
-
->>>>>>> bd4826a878b0d8569c476ed00796c79cd3d4014c
 
 
-svg
-{
-  display: block;
-  margin: auto;
-}
 
 
 .container1
@@ -75,16 +62,8 @@ svg
 }
 h4{
   text-align: right;
-=======
+
   background-color:#9fa7d6;
-}
-.slajdy
-{
-text-align: right;
-}
-h4{
-text-align: right;
->>>>>>> bd4826a878b0d8569c476ed00796c79cd3d4014c
 }
 
 
@@ -93,11 +72,7 @@ text-align: right;
   width: auto;
   height: 20em;
   background-color: #e6e9fa;
-=======
-width: auto;
-height: 20em;
-background-color: #e6e9fa;
->>>>>>> bd4826a878b0d8569c476ed00796c79cd3d4014c
+
 }
 
 .img-autorzy
@@ -117,13 +92,6 @@ background-color: #e6e9fa;
   position: relative;
   display: block;
   
-=======
-border-radius: 90%;
-height: 65%;
-width: auto;
-margin: 5%;
-padding-top: 5%;
-margin-right: 90%;
 }
 .tekst-autorzy
 {
@@ -133,7 +101,7 @@ margin-right: 15%;
 position: relative;
 display: block;
 
->>>>>>> bd4826a878b0d8569c476ed00796c79cd3d4014c
+
 
 }
 .autor-naglowek
@@ -182,37 +150,5 @@ display: block;
   
     
   }
-=======
-overflow:hidden;
-
-position:relative;
-height:80%;
-
-}
-.map-container iframe{
-  
-  height:100%;
-  width:100%;
-  position:absolute;
-  }
 
 
-#kontakt1
-{
-  background-color: #5e70d6;
-  padding-left: 40px;
-  padding-right: 40px;
-}
-#tekst2
-{
-  text-align: left;
-  
-  color: #fff;
-}
-#przycisk
-{
-  padding-top: 3%;
-  padding-bottom: 8%;
-
-  
-}
