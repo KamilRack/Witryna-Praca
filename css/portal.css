@@ -28,13 +28,14 @@ h1{
     text-align: center;
     
 }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
-  }
+#navbar-toggler
+{
+  float: right;
+  align-items: right;
+  text-align: right;
+}
+ 
+ 
   
   svg
   {
@@ -50,3 +51,85 @@ h1{
 .tlo{
     background-color:#9fa7d6;
 }
+.slajdy
+{
+  text-align: right;
+}
+h4{
+  text-align: right;
+}
+
+
+.carousel-inner
+{
+  width: auto;
+  height: 20em;
+  background-color: #e6e9fa;
+}
+
+.img-autorzy
+{
+  border-radius: 90%;
+  height: 65%;
+  width: auto;
+  margin: 5%;
+  padding-top: 5%;
+ margin-right: 90%;
+}
+.tekst-autorzy
+{
+  font-size: 80%;
+  margin-left: 40%;
+  margin-right: 15%;
+  position: relative;
+  display: block;
+  
+
+}
+.autor-naglowek
+{
+  margin-top: 10%;
+  margin-left: 20%;
+  padding: 0%;
+  position: relative;
+  
+}
+
+
+
+
+
+.map-container{
+  overflow:hidden;
+  
+  position:relative;
+  height:80%;
+  
+  }
+  .map-container iframe{
+    
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+  
+  
+  #kontakt1
+  {
+    background-color: #5e70d6;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  #tekst2
+  {
+    text-align: left;
+    
+    color: #fff;
+  }
+  #przycisk
+  {
+    padding-top: 3%;
+    padding-bottom: 8%;
+  
+    
+  }
